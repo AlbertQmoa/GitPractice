@@ -1,2 +1,2 @@
 # GitPractice
-Used to practice Git commands
+Used to practice Git and Pytest

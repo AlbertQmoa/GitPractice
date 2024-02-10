@@ -1,4 +1,4 @@
-from utils import ComplexNumber
+from src.utils import ComplexNumber
 
 a = ComplexNumber(3, 2)
 b = ComplexNumber(1, 7)
